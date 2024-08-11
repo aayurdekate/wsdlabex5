@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<photographyCommunity>
+    <photographer>
+        <name>John Doe</name>
+        <profileUrl>http://example.com/profiles/johndoe</profileUrl>
+        <bio>Passionate landscape photographer.</bio>
+        <photos>
+            <photo>
+                <title>Sunset at the Beach</title>
+                <url>http://example.com/photos/sunset</url>
+                <dateTaken>2024-08-10</dateTaken>
+                <description>A beautiful sunset captured on the coast.</description>
+            </photo>
+            <!-- Additional photos -->
+        </photos>
+    </photographer>
+    <!-- Additional photographers -->
+    <event>
+        <title>Photography Workshop</title>
+        <date>2024-09-15</date>
+        <location>New York City</location>
+        <description>A workshop on urban photography techniques.</description>
+    </event>
+    <!-- Additional events -->
+</photographyCommunity>
